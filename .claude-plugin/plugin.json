@@ -1,0 +1,22 @@
+{
+  "name": "email-lifecycle-flows",
+  "version": "1.0.0",
+  "description": "Complete email lifecycle flows in one run — welcome, abandoned cart, post-purchase, win-back — full copy, subject lines, send timing and segment logic for every email.",
+  "author": {
+    "name": "Jahirul",
+    "url": "https://cloudskillhub.com"
+  },
+  "homepage": "https://cloudskillhub.com",
+  "repository": "https://github.com/jahirulofficial0/email-lifecycle-flows",
+  "license": "MIT",
+  "keywords": [
+    "claude-skill",
+    "email-marketing",
+    "lifecycle-marketing",
+    "ecommerce",
+    "copywriting",
+    "klaviyo",
+    "chatgpt-gpt",
+    "gemini-gem"
+  ]
+}
